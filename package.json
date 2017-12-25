@@ -1,0 +1,23 @@
+{
+  "name": "sams-number-formatter",
+  "version": "0.1.0",
+  "description": "Sams number formatter first npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambhuWeb/sams-number-formatter.git"
+  },
+  "keywords": [
+    "number",
+    "formatter"
+  ],
+  "author": "Sambhu Raj Singh <sambhu.raj.singh@gmail.com> (node.howtofixthis.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sambhuWeb/sams-number-formatter/issues"
+  },
+  "homepage": "https://github.com/sambhuWeb/sams-number-formatter#readme"
+}
